@@ -23,6 +23,7 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
+  text-transform: capitalize;
 }
 
 .Weather img {
@@ -34,7 +35,7 @@
   line-height: 64px;
   font-weight: 100;
   color: rgb(33, 33, 33);
-  margin: 0 5px;
+  margin: 0;
 }
 
 .Weather .unit {
