@@ -14,6 +14,15 @@ function App() {
         >
           open-soursed on GitHub
         </a>
+        , hosted on
+        <a
+          href="https://thriving-rugelach-c5a495.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          {" "}
+          Netlify
+        </a>
       </footer>
     </div>
   );
